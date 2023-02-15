@@ -24,32 +24,49 @@ my wife, tiktok videos, youtube shorts... How do i manage to do all of this?? I 
 
 ...
 
-### Get inspired::
+### Get inspired:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | TikTok" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/tiktok.svg" />][tiktok]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/m258987/m258987/blob/main/yt.png?raw=true" />][youtube]
+[<img align="left" alt="codeSTACKr | Codepen" width="22px" src="https://raw.githubusercontent.com/m258987/m258987/main/codepen.webp" />][codepen]
+[<img align="left" alt="codeSTACKr | TikTok" width="22px" src="https://raw.githubusercontent.com/m258987/m258987/main/tiktok.webp" />][tiktok]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://github.com/m258987/m258987/blob/main/ig.png?raw=true" />][instagram]
+
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][instagram]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][tiktok]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][tiktok]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][tiktok]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][tiktok]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][tiktok]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][tiktok]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][tiktok]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][tiktok]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][tiktok]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][tiktok]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
+
+[<img align="left" alt="Tailwind" width="26px" src="https://github.com/m258987/m258987/blob/main/twcss.png?raw=true" />][tailwind]
+
+[<img align="left" alt="TypeScript" width="26px" src="https://github.com/m258987/m258987/blob/main/ts.png?raw=true" />][ts]
+
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+
+[<img align="left" alt="Strapi" width="26px" src="https://github.com/m258987/m258987/blob/main/strapi.png?raw=true"/>][strapi]
+
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][gql]
+
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][node]
+
+
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][ohmyzsh]
 
 <br />
 <br />
 
-
+[strapi]: https://strapi.io
+[vscode]: https://code.visualstudio.com/
+[ohmyzsh]: https://ohmyz.sh/
 [youtube]: https://www.youtube.com/@faslin_kosta_code
 [instagram]: https://instagram.com/faslin_kosta
 [tiktok]: https://tiktok.com/@faslin_kosta
+[codepen]: https://codepen.io/faslin_kosta
+[tailwind]: https://tailwindcss.com/
+[react]: https://reactjs.org
+[next]: https://nextjs.org
+[vercel]: https://vercel.com
+[ts]: https://www.typescriptlang.org/
+[gql]: https://graphql.org/
+[node]: https://nodejs.org/
