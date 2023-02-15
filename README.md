@@ -1,15 +1,15 @@
 ### Hello, fellas! It's [faslin_kosta][youtube] here 👋
 
-## I'm a **Developer** and a Wannabe-Teacher-Mentor-Guru-DiscordMaster-BlogWriter-YoutubeShortsWItCodingTipsCreator and all of those amazing things if i had time...
+## I'm a **Developer** and a Wannabe-Teacher-Mentor-Guru-DiscordMaster-BlogWriter-YoutubeShortsWithCodingTipsCreator and all of those amazing things if i had time...
 
 - ⚛️ Harworking Mid Fullstack React Developer... Huh, that was a long one, lets keep it short and call it HMFRD from now on.
 - 👨🏻‍🎓 Grad student at a UnIvErSiTy ✨ Not that anyone cares
 - 👨🏻‍💻 When at work, I'm abusing next.js to the fullest and pushing out projects from static sites to full on multiplatform applications
-- 🥳 When free, I'm doing: mini sideprojects, usefull snippert, blogs, npm packages, UNI related bu#$!+, personal sites, freelance projects, designs,
-my wife, tiktok videos, youtube shorts... How do i manage to do all of this?? I didn't say I do that at the same time... Maybe one of them... once a month..
+- 🥳 When free, I'm doing: mini sideprojects, usefull snippets, blogs, npm packages, UNI related bu#$!+, personal sites, freelance projects, designs,
+my wife, tiktok videos, youtube shorts, daydrinking, sleepwalking ... How do I manage to do all of this?? I didn't say I do all of them at the same time... Maybe one of them... once a month...
 - 🍺 I'm also a beer enthusiast (you can find me on google maps to checkout beer reviews 🤣)
 - ✨ I LOVE THE SPARKLES EMOJI
-- I have an amazing girl and I am skillful programmer. One of these is a lie.
+- 🥰 I have an amazing girl and I am skillful programmer. One of these is a lie.
 
 ### Past projects:
 
@@ -23,6 +23,11 @@ my wife, tiktok videos, youtube shorts... How do i manage to do all of this?? I 
 - 💃🏻 [Goddess](https://goddessbyandjelinaatanasova.com/)
 
 ...
+
+### In progress: (oh gosh let's not forget to update this one)
+
+- Easybook.bg
+- My personal website
 
 ### Get inspired:
 
